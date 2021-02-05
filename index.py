@@ -34,8 +34,8 @@ app.layout = html.Div([
         ),
         html.Div([
             html.Div([
-                html.H3("Covid - 19", style={"margin-bottom": "0px", 'color': 'white'}),
-                html.H5("Track Covid - 19 Cases", style={"margin-top": "0px", 'color': 'white'}),
+                html.H3("Practice assignment", style={"margin-bottom": "0px", 'color': 'white'}),
+                html.H5("Practice assignment", style={"margin-top": "0px", 'color': 'white'}),
             ])
         ], className="one-half column", id="title"),
 
